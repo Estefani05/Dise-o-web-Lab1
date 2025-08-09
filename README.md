@@ -135,7 +135,7 @@ OAuth: Protocolo estándar que permite a los usuarios autorizar a aplicaciones d
 
 b. Diagrama de flujo explicativo del proceso de autenticación con JWT
 
-![alt text](image.png)
+![alt text](1-1.png)
 
 c. Buenas prácticas en seguridad web
 
